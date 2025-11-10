@@ -57,7 +57,7 @@ noButton.addEventListener("click", function () {
 });
 
 // Yes 按钮点击后，进入表白成功页面
-const loveTest = `!!!喜欢你，梓欣!! ( >᎑<)♡︎ᐝ  ${
+const loveTest = `!!!喜欢你，欣宝!! ( >᎑<)♡︎ᐝ  ${
   username ? `${safeUsername}  ♡︎ᐝ(>᎑< )` : ""
 }`;
 
